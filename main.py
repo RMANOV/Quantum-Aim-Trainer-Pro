@@ -186,3 +186,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# python main.py --profile performance --fullscreen
+# python main.py --profile performance
+# python main.py --fullscreen
+# python main.py --profile default
+# python main.py --profile default --fullscreen
